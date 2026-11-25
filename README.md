@@ -2,8 +2,8 @@
 
 | 元ROM | CRC32 | バグ修正と描画高速化 r4（SlowROM） | バグ修正と描画高速化 r4（FastROM） |
 | --- | --- | --- | --- |
-| `Dungeon Master (Japan).sfc`（v1.0） | `7A1BA194` | [v1.0 SlowROM](patches/DM-JP-v1.0-fixes-crowded-render-slowrom-r4.bps) | [v1.0 FastROM](patches/DM-JP-v1.0-fixes-fast-crowded-render-r4.bps) |
-| `Dungeon Master (Japan) (Rev 1).sfc`（v1.1） | `AA79FA33` | [v1.1 SlowROM](patches/DM-JP-v1.1-fixes-crowded-render-slowrom-r4.bps) | [v1.1 FastROM](patches/DM-JP-v1.1-fixes-fast-crowded-render-r4.bps) |
+| `Dungeon Master.sfc`（v1.0） | `7A1BA194` | [v1.0 SlowROM](patches/DM-JP-v1.0-fixes-crowded-render-slowrom-r4.bps) | [v1.0 FastROM](patches/DM-JP-v1.0-fixes-fast-crowded-render-r4.bps) |
+| `Dungeon Master.sfc`（v1.1） | `AA79FA33` | [v1.1 SlowROM](patches/DM-JP-v1.1-fixes-crowded-render-slowrom-r4.bps) | [v1.1 FastROM](patches/DM-JP-v1.1-fixes-fast-crowded-render-r4.bps) |
 
 ヘッダーなしの1 MiB ROMが対象です。BPS対応のパッチ適用ツールで、表にある元ROMとパッチを組み合わせてください。既存の進行を使うときは、セーブファイルのコピーを出力ROMと同じベース名にします。
 
