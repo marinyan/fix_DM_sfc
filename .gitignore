@@ -1,0 +1,7 @@
+*.sfc
+*.smc
+*.srm
+*.sav
+*.state
+*.wram
+/output/
